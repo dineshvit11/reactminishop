@@ -1,0 +1,20 @@
+# Node modules (heavy)
+node_modules
+
+# Build output (Docker khud banayega)
+build
+
+# Git files
+.git
+.gitignore
+
+
+
+# Environment files (security)
+.env
+.env.*
+
+# Docker files (optional)
+Dockerfile
+.dockerignore
+
